@@ -50,5 +50,6 @@ A final report including all the parts will be delivered at the end of the proje
 The project will not be developed in its entirety. The language used is the C language.
 
 5 Presentation
+
 The project must be presented by the team in front of a jury composed of at least one supervisor accompanied by a non-expert person. The presence of a non-expert makes it possible to measure the students’ ability to present their work to a non-technically informed audience.
 The duration of the presentation will be 20 minutes followed by 5 minutes of demonstration of the project and 10 minutes of questions. A 5-minute restitution will be made at the end of the deliberation of the jury. The oral presentation is open to all students in the group, except for the restitution.
