@@ -1,55 +1,70 @@
-# ConnectedGarden
-Web Application Project
+# Getting Started with Create React App
 
- Projet technique
-MMS 2023/2024 page 1/2
- Project B1 computer engineering Technical Projet
-Patrick Albers 4 avril 2023
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Available Scripts
 
-ESAIP will acquire a connected garden which will be in the patio of the new building C. We would like to have an application to follow the watering of the plants.
+In the project directory, you can run:
 
-Figure 1 – connected garden
+### `npm start`
 
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The goal of this project is to make a model of a Web application for the management of this connected garden. The garden will be divided into zones, each having the following characteristics :
-— an identification number,
-— a content (a simple character string), — a watering duration in minutes,
-— and a frequency expressed in days.
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
+### `npm test`
 
-The features we would like in this irrigation management application are as follows :
-1. view all zones by number,
-2. display for each zone the type of plant it contains, the duration and the frequency watering, 3. add a type of plant in an area specifying the duration and frequency watering,
-4. modify one of the characteristics of an area,
-5. delete the contents of an area.
-You must implement all of these features, but you are free to add any new functionality that you will find useful.
- 
- MMS 2023/2024 Projet technique page 2/2
- 
-1 Project objective
-Through this project, students in the Digital Bachelor will apply the basics theoretical and practical acquired during the various courses. They perform in groups of 3 or 4 students maximum, a technical project supervised by the school’s teacher-researchers.
-The projects concern the resolution of a technical problem (development, networks, bases of data, etc) by a formalized methodology. These projects constitute a concrete experience group work and the use of project management tools. Students must demonstrate of the realization of the project their capacity to integrate the various teachings received in particular in project management.
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-2 The work consists of the following different phases :
-— the drafting of specifications,
-— the phase of analysis and drafting of specifications and design files, — the realization phase,
-— and the test phase.
-Modalities and progress of the project
-The project takes place in the second semester of the first year’s training and is spread over ten weeks. All sessions are scheduled ; some are framed, and the others project sessions are autonomous.
+### `npm run build`
 
-3 The groups will be trinomials or pairs depending on the number of students.
-Deliverables
-The following phases will be the subject of a written report : — the specifications,
-— the spec file,
-— the design folder,
-— the test folder.
-A final report including all the parts will be delivered at the end of the project before the presentation.
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-4 Coding
-The project will not be developed in its entirety. The language used is the C language.
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-5 Presentation
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-The project must be presented by the team in front of a jury composed of at least one supervisor accompanied by a non-expert person. The presence of a non-expert makes it possible to measure the students’ ability to present their work to a non-technically informed audience.
-The duration of the presentation will be 20 minutes followed by 5 minutes of demonstration of the project and 10 minutes of questions. A 5-minute restitution will be made at the end of the deliberation of the jury. The oral presentation is open to all students in the group, except for the restitution.
+### `npm run eject`
+
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
